@@ -1,0 +1,15 @@
+/* big tablet to 1200px(with smaller than the 1140px row */
+@media only screen and(min-width:1200px) {
+}
+
+/* small tablet:from 768px to 1023px */
+
+@media only screen and(max-width:1023px) {
+}
+
+/* this will target ippad and other tablate  from small phone to 481 to 767*/
+@media only screen and(max-width:767px) {
+}
+/* small phones from 0 to 480px */
+@media only screen and(max-width:480px) {
+}
